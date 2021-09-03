@@ -30,7 +30,7 @@ LANGUAGES = [
     ('eu', gettext_noop('Basque')),
     ('fa', gettext_noop('Persian')),
     ('fi', gettext_noop('Finnish')),
-    ('fr', gettext_noop('French')),
+    ('fr', gettext_noop('French')),'
     ('fy', gettext_noop('Frisian')),
     ('ga', gettext_noop('Irish')),
     ('gd', gettext_noop('Scottish Gaelic')),
@@ -90,4 +90,4 @@ LANGUAGES = [
     ('uz', gettext_noop('Uzbek')),
     ('vi', gettext_noop('Vietnamese')),
     ('zh-hans', gettext_noop('Simplified Chinese')),
-    ('zh-hant', gettext_noop('Traditional Chine
+    ('zh-hant', gettext_noop('Traditional Chinese')),
